@@ -1,6 +1,6 @@
 #### https://pear-puzzled-goose.cyclic.app/
 #### https://everydayneeds-json-api.onrender.com/
-# bankapp-mock-api
+# everydayneeds.json-mock-api
 
 #### Prerequisite
 * Create a folder
